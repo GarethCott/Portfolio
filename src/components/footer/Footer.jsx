@@ -2,7 +2,10 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>
+        <div>Portfolio. All rights reserved.</div>
+        <div>Footer Photos</div>
+    </div>
   )
 }
 
