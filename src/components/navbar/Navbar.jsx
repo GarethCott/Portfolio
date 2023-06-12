@@ -43,7 +43,7 @@ const Navbar = () => {
   const session = useSession();
   return (
     <div className={styles.container}>
-        <Link href="/" className={styles.logo}>lamamia</Link>
+        <Link href="/" className={styles.logo}>Portfolio</Link>
         <div className={styles.links}>
           <DarkModeToggle/>
             {links.map(link=>(
