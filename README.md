@@ -19,8 +19,8 @@ The Portfolio Website is a platform designed to showcase your portfolio and allo
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/GarethCott/Portfolio.git`
+2. Navigate to the project directory: `cd Portfolio`
 3. Install the dependencies: `npm install`
 4. Copy .env.example to .env: `create .env`
 5. Start the development server: `npm run dev`
